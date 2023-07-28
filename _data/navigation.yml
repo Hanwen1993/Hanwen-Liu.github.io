@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Fundings"
+    url: "/#-Fundings"
+
   - title: "Academic Affiliations"
     url: "/#-academic-affiliations"
 
