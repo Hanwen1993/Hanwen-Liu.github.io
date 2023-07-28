@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huaizhen Kou (寇怀振)"
-description              : "A PhD candidate at Nanjing University of Science and Technology, with research interests in recommendation systems, NLP and GNN."
-repository               : "huaizhenkou/huaizhenkou.github.io"
+title                    : "Hanwen Liu (刘瀚文)"
+description              : "A PhD candidate at Nanjing University of Science and Technology, with research interests in recommendation systems, link prediction and social network."
+repository               : "Hanwen1993/Hanwen-Liu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : # G-SWFCX99KQZ
+# google_analytics_id      : # G-SWFCX99KQZ
 
 # SEO Related
 google_site_verification : # b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,14 +21,14 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Huaizhen Kou (寇怀振)"
-  avatar           : "images/profile.png"
+  name             : "Hanwen Liu (刘瀚文)"
+  avatar           : "images/lhw.png"
   bio              : "Nanjing University of Science and Technology"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9ylPoCMAAAAJ"
-  email            : "huaizhenkou@njust.edu.cn"
+  googlescholar    :
+  email            : "hanqingliu2019@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huaizhenkou"
+  github           : "Hanwen1993"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # "rayeren"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : https://orcid.org/0000-0001-6497-3643
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0002-2905-370X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
