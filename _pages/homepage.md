@@ -1,3 +1,3 @@
 # 📎 Homepages
-- Personal Pages: https://Hanwen1993.github.io (updated recently🔥)
+- Personal Pages: https://hanwen1993.github.io (updated recently🔥)
 
